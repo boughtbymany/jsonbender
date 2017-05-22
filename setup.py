@@ -1,9 +1,10 @@
 from setuptools import setup, find_packages
 from jsonbender import __version__
 
+# BBM - Fork of JSONBender
 
 setup(
-    name='JSONBender',
+    name='bbm-jsonbender',
     version=__version__,
     description='Library for transforming JSON data between different formats.',
     author='Elias Tandel',
@@ -19,4 +20,3 @@ setup(
         'Programming Language :: Python :: 3.5',
     ],
 )
-

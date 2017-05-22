@@ -4,5 +4,4 @@ from jsonbender.string_ops import Format
 from jsonbender.selectors import F, K, S, OptionalS
 
 
-__version__ = '99.99.99-jakul'
-
+__version__ = '1.0.0'
